@@ -1,0 +1,47 @@
+PODS:
+  - Cosmos (15.0.0)
+  - EasyToast (2.0.2)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlacePicker (2.7.0):
+    - GoogleMaps (= 2.7.0)
+    - GooglePlaces (= 2.7.0)
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - SwiftSpinner (1.5.0)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - Cosmos (~> 15.0)
+  - EasyToast
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
+  - SwiftSpinner
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Cosmos
+    - EasyToast
+    - GoogleMaps
+    - GooglePlacePicker
+    - GooglePlaces
+    - SwiftSpinner
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Cosmos: a6dbd3d0baa0cc8f51f8598f7508d5a09d0a9ade
+  EasyToast: 2844de2158fe8d2313c6de81b5a858a909d82532
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlacePicker: 59ea44db173c58486ad6123993e81feefcbce9c3
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  SwiftSpinner: 4c058c7a1d6b444dd2e1d70988ead40783097133
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: 557170886a742f97dbc13644547fc5220948a278
+
+COCOAPODS: 1.5.0
